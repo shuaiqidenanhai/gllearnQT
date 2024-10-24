@@ -1,0 +1,177 @@
+[
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/openglqt_autogen/mocs_compilation.cpp.o -c /home/siwan/testgl/gllearnqt/build/openglqt_autogen/mocs_compilation.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/build/openglqt_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/addcomponent.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/addcomponent.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/addcomponent.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/bearingparameterwidget.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/bearingparameterwidget.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/bearingparameterwidget.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/dialog.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/dialog.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/dialog.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/editmeshing.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/editmeshing.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/editmeshing.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/eight.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/eight.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/eight.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/five.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/five.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/five.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/four.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/four.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/four.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/gainian.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/gainian.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/gainian.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/gear.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/gear.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/gear.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/geargroup.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/geargroup.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/geargroup.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/gearparameterwidget.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/gearparameterwidget.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/gearparameterwidget.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/mainwindow.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/mainwindow.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/mainwindow.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/nestedmainwindow.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/nestedmainwindow.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/nestedmainwindow.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/nestedwidget.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/nestedwidget.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/nestedwidget.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/newpage.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/newpage.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/newpage.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/one.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/one.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/one.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/redesign.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/redesign.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/redesign.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/seven.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/seven.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/seven.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/shaft.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/shaft.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/shaft.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/shaftparameterwidget.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/shaftparameterwidget.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/shaftparameterwidget.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/six.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/six.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/six.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/spokesdetail.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/spokesdetail.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/spokesdetail.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/three.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/three.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/three.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/UI/src/two.cpp.o -c /home/siwan/testgl/gllearnqt/UI/src/two.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/UI/src/two.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/Materials.cpp.o -c /home/siwan/testgl/gllearnqt/src/Materials.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/Materials.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/drawBear.cpp.o -c /home/siwan/testgl/gllearnqt/src/drawBear.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/drawBear.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/drawGear.cpp.o -c /home/siwan/testgl/gllearnqt/src/drawGear.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/drawGear.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/drawModel.cpp.o -c /home/siwan/testgl/gllearnqt/src/drawModel.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/drawModel.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/drawNormal.cpp.o -c /home/siwan/testgl/gllearnqt/src/drawNormal.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/drawNormal.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/drawTransimission.cpp.o -c /home/siwan/testgl/gllearnqt/src/drawTransimission.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/drawTransimission.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -o CMakeFiles/openglqt.dir/src/glad.c.o -c /home/siwan/testgl/gllearnqt/src/glad.c",
+  "file": "/home/siwan/testgl/gllearnqt/src/glad.c"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/object.cpp.o -c /home/siwan/testgl/gllearnqt/src/object.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/object.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/src/setting.cpp.o -c /home/siwan/testgl/gllearnqt/src/setting.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/src/setting.cpp"
+},
+{
+  "directory": "/home/siwan/testgl/gllearnqt/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include -I/home/siwan/testgl/gllearnqt/./include -I/home/siwan/testgl/gllearnqt/UI/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore -isystem /media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=gnu++14 -o CMakeFiles/openglqt.dir/qrc_resources.cpp.o -c /home/siwan/testgl/gllearnqt/build/qrc_resources.cpp",
+  "file": "/home/siwan/testgl/gllearnqt/build/qrc_resources.cpp"
+}
+]

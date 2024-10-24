@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>972</width>
+    <height>955</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>972</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_E">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>编辑(&amp;E)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="action_D"/>
+    <addaction name="action"/>
+    <addaction name="action_2"/>
+   </widget>
+   <widget class="QMenu" name="menu_P">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="title">
+     <string>部件(&amp;P)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="addAction"/>
+    <addaction name="action_E_2"/>
+    <addaction name="action_O_2"/>
+    <addaction name="detailedAction"/>
+   </widget>
+   <widget class="QMenu" name="menu_R">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>报告(&amp;R)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="action_6"/>
+   </widget>
+   <widget class="QMenu" name="menu_V">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>视图(&amp;V)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="action_5"/>
+    <addaction name="action_7"/>
+    <addaction name="action_8"/>
+    <addaction name="action_9"/>
+   </widget>
+   <widget class="QMenu" name="menu_N">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>设置(&amp;N)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="action_10"/>
+   </widget>
+   <widget class="QMenu" name="menu_W">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>窗口(&amp;W)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_H">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="tearOffEnabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>帮助(&amp;H)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menu_F">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="title">
+     <string>文件(&amp;F)</string>
+    </property>
+    <addaction name="newAction"/>
+    <addaction name="openAction"/>
+    <addaction name="saveAction"/>
+    <addaction name="action_E"/>
+   </widget>
+   <widget class="QMenu" name="menu_A">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="title">
+     <string>分析(&amp;A)</string>
+    </property>
+    <property name="toolTipsVisible">
+     <bool>true</bool>
+    </property>
+    <addaction name="action_4"/>
+   </widget>
+   <addaction name="menu_F"/>
+   <addaction name="menu_P"/>
+   <addaction name="menu_E"/>
+   <addaction name="menu_A"/>
+   <addaction name="menu_R"/>
+   <addaction name="menu_V"/>
+   <addaction name="menu_N"/>
+   <addaction name="menu_W"/>
+   <addaction name="menu_H"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="newAction">
+   <property name="text">
+    <string>新建(&amp;N)</string>
+   </property>
+  </action>
+  <action name="openAction">
+   <property name="text">
+    <string>打开(&amp;O)</string>
+   </property>
+  </action>
+  <action name="saveAction">
+   <property name="text">
+    <string>另存为(&amp;S)</string>
+   </property>
+  </action>
+  <action name="action_E">
+   <property name="text">
+    <string>退出(&amp;E)</string>
+   </property>
+  </action>
+  <action name="action_D">
+   <property name="text">
+    <string>删除</string>
+   </property>
+   <property name="visible">
+    <bool>true</bool>
+   </property>
+   <property name="iconVisibleInMenu">
+    <bool>true</bool>
+   </property>
+  </action>
+  <action name="action">
+   <property name="text">
+    <string>复制</string>
+   </property>
+  </action>
+  <action name="action_2">
+   <property name="text">
+    <string>修改</string>
+   </property>
+  </action>
+  <action name="addAction">
+   <property name="text">
+    <string>添加新装配件/部件(&amp;A)</string>
+   </property>
+  </action>
+  <action name="action_E_2">
+   <property name="text">
+    <string>编辑属性表(&amp;E)</string>
+   </property>
+  </action>
+  <action name="action_O_2">
+   <property name="text">
+    <string>打开工作表(&amp;O)</string>
+   </property>
+  </action>
+  <action name="action_4">
+   <property name="text">
+    <string>分析设置</string>
+   </property>
+  </action>
+  <action name="action_5">
+   <property name="text">
+    <string>刷新列表</string>
+   </property>
+  </action>
+  <action name="action_6">
+   <property name="text">
+    <string>设计总结</string>
+   </property>
+  </action>
+  <action name="action_7">
+   <property name="text">
+    <string>关闭所有视图</string>
+   </property>
+  </action>
+  <action name="action_8">
+   <property name="text">
+    <string>查看类型</string>
+   </property>
+  </action>
+  <action name="action_9">
+   <property name="text">
+    <string>排列窗口</string>
+   </property>
+  </action>
+  <action name="action_10">
+   <property name="text">
+    <string>全局设置</string>
+   </property>
+  </action>
+  <action name="detailedAction">
+   <property name="text">
+    <string>详细齿轮组(&amp;D)</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

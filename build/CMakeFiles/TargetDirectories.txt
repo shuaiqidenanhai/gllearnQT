@@ -1,0 +1,5 @@
+/home/siwan/testgl/gllearnqt/build/CMakeFiles/openglqt.dir
+/home/siwan/testgl/gllearnqt/build/CMakeFiles/edit_cache.dir
+/home/siwan/testgl/gllearnqt/build/CMakeFiles/rebuild_cache.dir
+/home/siwan/testgl/gllearnqt/build/CMakeFiles/openglqt_autogen_timestamp_deps.dir
+/home/siwan/testgl/gllearnqt/build/CMakeFiles/openglqt_autogen.dir

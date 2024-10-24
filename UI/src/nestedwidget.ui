@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NestedWidget</class>
+ <widget class="QWidget" name="NestedWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QPushButton" name="gearButton">
+      <property name="text">
+       <string>齿轮</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="gearGroupButton">
+      <property name="text">
+       <string>齿轮组</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="shaftButton">
+      <property name="text">
+       <string>轴</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="driveShaftButton">
+      <property name="text">
+       <string>传动轴</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

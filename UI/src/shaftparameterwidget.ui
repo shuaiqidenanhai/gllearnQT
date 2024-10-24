@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ShaftParameterWidget</class>
+ <widget class="QWidget" name="ShaftParameterWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>483</width>
+    <height>656</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="okButton">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>540</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>确定</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cancelButton">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>540</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>取消</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>20</y>
+     <width>113</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>100</y>
+     <width>113</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_15">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>90</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_21">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>90</y>
+     <width>24</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>模数</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_15">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>90</y>
+     <width>66</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch-1</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_16">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>140</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_16">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>140</y>
+     <width>51</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>deg</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>rev</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>rad</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_22">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>140</y>
+     <width>36</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>压力角</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_14">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>290</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_20">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>290</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>主齿轮齿宽</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_14">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>290</y>
+     <width>54</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>cm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ft</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_13">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>340</y>
+     <width>106</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_18">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>340</y>
+     <width>84</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>主齿轮中心半径</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_13">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>340</y>
+     <width>54</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>cm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ft</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_23">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>480</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>副齿轮齿宽</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_17">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>480</y>
+     <width>54</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>cm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ft</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_17">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>480</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="spinBox_5">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>430</y>
+     <width>40</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_17">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>430</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>副齿轮齿数</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_25">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>190</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>主齿轮名称</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_20">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>190</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="spinBox_6">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>240</y>
+     <width>40</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_19">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>240</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>主齿轮齿数</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_21">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>390</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_26">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>390</y>
+     <width>60</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>副齿轮名称</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

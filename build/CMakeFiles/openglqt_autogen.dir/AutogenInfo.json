@@ -1,0 +1,359 @@
+{
+	"BUILD_DIR" : "/home/siwan/testgl/gllearnqt/build/openglqt_autogen",
+	"CMAKE_BINARY_DIR" : "/home/siwan/testgl/gllearnqt/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/siwan/testgl/gllearnqt/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/siwan/testgl/gllearnqt",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/siwan/testgl/gllearnqt/CMakeLists.txt",
+		"/home/siwan/testgl/gllearnqt/build/CMakeFiles/3.25.1/CMakeSystem.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/siwan/testgl/gllearnqt/build/CMakeFiles/3.25.1/CMakeCCompiler.cmake",
+		"/home/siwan/testgl/gllearnqt/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU-C.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeParseArguments.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QInsightTrackerPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeParseArguments.cmake",
+		"/usr/share/cmake-3.25/Modules/FindOpenGL.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.25/Modules/FindThreads.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckLibraryExists.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckIncludeFile.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake",
+		"/home/siwan/testgl/gllearnqt/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/siwan/testgl/gllearnqt",
+	"DEP_FILE" : "/home/siwan/testgl/gllearnqt/build/openglqt_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "openglqt_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/addcomponent.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_addcomponent.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/bearingparameterwidget.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_bearingparameterwidget.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/dialog.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_dialog.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/editmeshing.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_editmeshing.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/eight.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_eight.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/five.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_five.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/four.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_four.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/gainian.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_gainian.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/gear.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_gear.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/geargroup.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_geargroup.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/gearparameterwidget.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_gearparameterwidget.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/mainwindow.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/nestedmainwindow.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_nestedmainwindow.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/nestedwidget.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_nestedwidget.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/newpage.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_newpage.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/one.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_one.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/redesign.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_redesign.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/seven.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_seven.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/shaft.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_shaft.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/shaftparameterwidget.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_shaftparameterwidget.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/six.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_six.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/spokesdetail.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_spokesdetail.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/three.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_three.cpp",
+			null
+		],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/include/two.h",
+			"MU",
+			"4ZVMNOJ5UN/moc_two.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/siwan/testgl/gllearnqt/build/openglqt_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/siwan/testgl/gllearnqt/build/openglqt_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/siwan/testgl/gllearnqt/include",
+		"/home/siwan/testgl/gllearnqt/UI/include",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtWidgets",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtGui",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/include/QtCore",
+		"/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/bin/x86_64-linux-gnu-g++-9",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/siwan/testgl/gllearnqt/build/openglqt_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/siwan/testgl/gllearnqt/build/CMakeFiles/openglqt_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/media/siwan/da5e2e8c-37d3-4302-b89b-d5bf40ad269f/QT/5.15.17/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/siwan/testgl/gllearnqt/build/CMakeFiles/openglqt_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/siwan/testgl/gllearnqt/UI/src/addcomponent.cpp", "MU", null ],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/src/bearingparameterwidget.cpp",
+			"MU",
+			null
+		],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/dialog.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/editmeshing.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/eight.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/five.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/four.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/gainian.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/gear.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/geargroup.cpp", "MU", null ],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/src/gearparameterwidget.cpp",
+			"MU",
+			null
+		],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/mainwindow.cpp", "MU", null ],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/src/nestedmainwindow.cpp",
+			"MU",
+			null
+		],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/nestedwidget.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/newpage.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/one.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/redesign.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/seven.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/shaft.cpp", "MU", null ],
+		[
+			"/home/siwan/testgl/gllearnqt/UI/src/shaftparameterwidget.cpp",
+			"MU",
+			null
+		],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/six.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/spokesdetail.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/three.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/UI/src/two.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/Materials.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/drawBear.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/drawGear.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/drawModel.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/drawNormal.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/drawTransimission.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/glad.c", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/object.cpp", "MU", null ],
+		[ "/home/siwan/testgl/gllearnqt/src/setting.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

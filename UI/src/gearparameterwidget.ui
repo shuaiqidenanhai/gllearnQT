@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GearParameterWidget</class>
+ <widget class="QWidget" name="GearParameterWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>492</width>
+    <height>472</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="cancelButton">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>360</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>取消</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="okButton">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>360</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>确定</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_7">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>100</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_7">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>100</y>
+     <width>66</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch-1</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_8">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>100</y>
+     <width>24</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>模数</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>150</y>
+     <width>36</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>压力角</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_5">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>150</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_5">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>150</y>
+     <width>51</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>deg</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>rev</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>rad</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_10">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>200</y>
+     <width>24</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>齿数</string>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="spinBox_2">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>200</y>
+     <width>40</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="focusPolicy">
+    <enum>Qt::WheelFocus</enum>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_8">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>250</y>
+     <width>54</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>cm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ft</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>250</y>
+     <width>24</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>齿宽</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_8">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>250</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>300</y>
+     <width>48</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>中心半径</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox_6">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>300</y>
+     <width>54</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>mm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>cm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>dm</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>inch</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>ft</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_6">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>300</y>
+     <width>108</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>50</y>
+     <width>55</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>齿轮名称</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>50</y>
+     <width>201</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
